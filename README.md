@@ -1,4 +1,4 @@
-#https://multiple-disease-prediction-by-ruchi.streamlit.app/
+https://multiple-disease-prediction-by-ruchi.streamlit.app/
 
 # Overview
 This project is a web-based application built with Streamlit that predicts the likelihood of:
