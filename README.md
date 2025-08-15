@@ -19,7 +19,7 @@ Trained ML Models: Models saved as .sav files for quick loading and prediction.
 Simple Deployment: Can be run locally or deployed on platforms like Streamlit Cloud or Heroku.
 
 # 📊 Models Used
-Diabetes Model: Trained on Pima Indians Diabetes Dataset (or similar), using features like:
+Diabetes Model: Trained using features like:
 
 Pregnancies
 
@@ -80,5 +80,3 @@ streamlit-option-menu
 
 scikit-learn (for model creation)
 
-git clone https://github.com/your-username/multiple-disease-prediction.git
-cd multiple-disease-p
